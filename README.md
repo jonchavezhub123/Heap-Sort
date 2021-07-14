@@ -1,1 +1,2 @@
 # Heap-Sort
+ C++ program to sort items in several input files, using the heapsort technique. heap.d1, heap.d2, and heap.d3 are my input files. Program first reads the items from the input file and builds a heap structure for these items. Then, it retrieves these items from the heap structure in order and prints them out on stdout. Pointers to input files, certain constant definitions, and the prototypes of the function templates are included in the header file heap.h. All function templates are implemented in heap.cc
